@@ -1,2 +1,13 @@
-# Exim-cPanel-Monitoring
-Exim Cpanel Monitoring for nixstats
+# Exim cPanel
+Exim cPanel monitor by WillyRL
+
+# Docs installation
+```
+https://github.com/NIXStats/nixstatsagent
+```
+
+
+# Upgrade
+```
+pip install nixstatsagent --upgrade
+```
