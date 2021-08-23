@@ -1,5 +1,5 @@
 # Exim cPanel
-Exim cPanel monitor by WillyRL
+Exim cPanel monitor with nixstats
 
 # Docs installation
 ```
